@@ -6590,11 +6590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyData\\Desktop\\DotNET\\AAT.File.Processor3\\AAT.File.Processor3\\AAT.File.Processor3.csproj",
+      "projectUniqueName": "D:\\MyData\\Desktop\\DotNET\\AAT-Code-Test-4\\AAT-Code-Test\\AAT.File.Processor3\\AAT.File.Processor3.csproj",
       "projectName": "AAT.File.Processor3",
-      "projectPath": "D:\\MyData\\Desktop\\DotNET\\AAT.File.Processor3\\AAT.File.Processor3\\AAT.File.Processor3.csproj",
+      "projectPath": "D:\\MyData\\Desktop\\DotNET\\AAT-Code-Test-4\\AAT-Code-Test\\AAT.File.Processor3\\AAT.File.Processor3.csproj",
       "packagesPath": "C:\\Users\\irsha\\.nuget\\packages\\",
-      "outputPath": "D:\\MyData\\Desktop\\DotNET\\AAT.File.Processor3\\AAT.File.Processor3\\obj\\",
+      "outputPath": "D:\\MyData\\Desktop\\DotNET\\AAT-Code-Test-4\\AAT-Code-Test\\AAT.File.Processor3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
