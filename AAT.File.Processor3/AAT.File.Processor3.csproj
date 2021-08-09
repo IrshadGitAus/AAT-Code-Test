@@ -29,6 +29,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<Folder Include="Extracted\ZipFiles\" />
 		<Folder Include="Inbound\ZipFiles\" />
 		<Folder Include="logs\" />
 	</ItemGroup>

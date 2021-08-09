@@ -312,3 +312,55 @@
 2021-08-09 11:01:21 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Sending mail... please wait.
 2021-08-09 11:01:24 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Sorry.. mail could not be sent. ERROR: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
 2021-08-09 11:01:24 +10:00 [INF] {  }-----------******** END: Processing zip files*******----------
+2021-08-09 12:04:11 +10:00 [INF] {  }-----------******** START: Processing zip files*******----------
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Zip files found:7
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }1)Processing the zip file: D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Inbound\ZipFiles\A-Valid.zip
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }The ZIP file is not corrupt, that is the files inside can be queried.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Zip file contains allowed files only.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }XML file is successfully validated against the XSD file.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }SUCCESS: ZIP file extracted successfully.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }2)Processing the zip file: D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Inbound\ZipFiles\B-Valid.zip
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }The ZIP file is not corrupt, that is the files inside can be queried.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Zip file contains allowed files only.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }XML file is successfully validated against the XSD file.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }SUCCESS: ZIP file extracted successfully.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }3)Processing the zip file: D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Inbound\ZipFiles\C-Corrupt.zip
+2021-08-09 12:04:11 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }FAILURE: ZIP file is corrupt.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }4)Processing the zip file: D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Inbound\ZipFiles\D-Invalid.zip
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }The ZIP file is not corrupt, that is the files inside can be queried.
+2021-08-09 12:04:11 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }junk/ is not a valid entry in the zip file
+2021-08-09 12:04:11 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }FAILURE: ZIP file cannot be extracted.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }5)Processing the zip file: D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Inbound\ZipFiles\E-Valid.zip
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }The ZIP file is not corrupt, that is the files inside can be queried.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Zip file contains allowed files only.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }XML file is successfully validated against the XSD file.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }SUCCESS: ZIP file extracted successfully.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }6)Processing the zip file: D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Inbound\ZipFiles\F-Invalid.zip
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }The ZIP file is not corrupt, that is the files inside can be queried.
+2021-08-09 12:04:11 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }party - Copy.XML is not a valid entry in the zip file
+2021-08-09 12:04:11 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }FAILURE: ZIP file cannot be extracted.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }7)Processing the zip file: D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Inbound\ZipFiles\G-Invalid-XML.zip
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }The ZIP file is not corrupt, that is the files inside can be queried.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Zip file contains allowed files only.
+2021-08-09 12:04:11 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }XML file failed validation against the XSD file.
+2021-08-09 12:04:11 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }FAILURE: ZIP file cannot be extracted.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }
+
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Congratulations!!.. The zip files are successfully processed. You will find the extracted zip files here D:\MyData\Desktop\DotNET\AAT-Code-Test-4\AAT-Code-Test\AAT.File.Processor3\Extracted\ZipFiles. And see the logs folder for more information.
+2021-08-09 12:04:11 +10:00 [INF] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Sending mail... please wait.
+2021-08-09 12:04:17 +10:00 [ERR] { SourceContext: "AAT.File.Processor3.Services.ZipService" }Sorry.. mail could not be sent. ERROR: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+2021-08-09 12:04:17 +10:00 [INF] {  }-----------******** END: Processing zip files*******----------
