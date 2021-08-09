@@ -1,8 +1,0 @@
-2021-08-07 22:02:57.882 +10:00 [INF] Application Starting
-2021-08-07 22:02:58.110 +10:00 [INF] Application Starting
-2021-08-07 22:03:34.460 +10:00 [INF] Application Starting
-2021-08-07 22:03:34.718 +10:00 [INF] Application Starting
-2021-08-07 22:04:25.461 +10:00 [INF] Application Starting
-2021-08-07 22:04:25.659 +10:00 [INF] Application Starting
-2021-08-07 22:04:46.330 +10:00 [INF] Application Starting
-2021-08-07 22:04:46.560 +10:00 [INF] Application Starting
