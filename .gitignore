@@ -24,18 +24,3 @@ bld/
 [Oo]bj/
 out/
 log/
- 
- 
-# Visual Studio 2015 cache/options directory
-.vs/
-.vscode/
-.idea/
- 
-# Karma & Jasmine
-coverage/
- 
- 
-# Logs
-logs
-
-/Logistics.AccommodationManager.API.ViewModels/out
